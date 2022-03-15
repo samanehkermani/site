@@ -1,0 +1,1770 @@
+button{
+
+    opacity: 50%;
+    color:red;
+}
+button:hover{ position: relative;
+    opacity: 100%;
+}
+.menu:hover{
+    padding-bottom: 1%;
+    border: 1px solid white;
+    border-bottom-style: solid ;
+    border-top-style:none ;
+    border-left-style:none ;
+    border-right-style:none;
+}
+.container {
+    max-width: 1200px;
+}
+
+.align-items-center {
+    align-items: center!important;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+.d-flex {
+    display: flex!important;
+}
+section.category-desktop[_ngcontent-pelak-app-c99] {
+    padding: 45px 0;
+}
+.container {
+    max-width: 1200px;
+}
+
+.pl-0, .px-0 {
+    padding-left: 0!important;
+}
+.pr-0, .px-0 {
+    padding-right: 0!important;
+}
+
+.justify-content-md-between {
+    justify-content: space-between!important;
+}
+.align-items-center {
+    align-items: center!important;
+}
+section.category-desktop[_ngcontent-pelak-app-c99] .popular__title[_ngcontent-pelak-app-c99] {
+    font-size: .875rem;
+    margin-bottom: 15px;
+    color: #999;
+    font-weight: 500;
+}
+
+.full-with {
+    width: 100%!important;
+}
+.text-center {
+    text-align: center!important;
+}
+.mt-2, .my-2 {
+    margin-top: 0.5rem!important;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+container {
+    max-width: 1200px;
+}
+
+.pl-0, .px-0 {
+    padding-left: 0!important;
+}
+.pr-0, .px-0 {
+    padding-right: 0!important;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+.d-flex {
+    display: flex!important;
+}
+section.category-desktop[_ngcontent-pelak-app-c99] .service-box-container[_ngcontent-pelak-app-c99] {
+    margin-left: 15px;
+}
+
+.position-relative {
+    position: relative!important;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section.category-desktop[_ngcontent-pelak-app-c99] .service__box[_ngcontent-pelak-app-c99] {
+    height: 120px;
+    width: 120px;
+    padding: 10px 0;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 10px auto;
+    cursor: pointer;
+    transition: transform .3s;
+    border: 1.4px solid #eaeaea;
+}
+.align-items-center {
+    align-items: center!important;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+.d-flex {
+    display: flex!important;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+}
+.font-section-text {
+    font-size: 12px;
+}
+.full-with {
+    width: 100%!important;
+}
+.text-center {
+    text-align: center!important;
+}
+.mt-1, .my-1 {
+    margin-top: 0.25rem!important;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;}
+   #span a:hover{
+        top: 0;
+        left: 0;
+        box-shadow: 0 0 10px 0 rgb(0 0 0 / 15%);
+        content: "";
+        opacity: 100;
+        z-index: -1;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    .container {
+        max-width: 1200px;
+    }
+    
+    .pl-0, .px-0 {
+        padding-left: 0!important;
+    }
+    .pr-0, .px-0 {
+        padding-right: 0!important;
+    }
+    .container {
+        max-width: 1140px;
+    }
+    .container {
+        max-width: 960px;
+    }
+    .container {
+        max-width: 720px;
+    }
+    .container {
+        max-width: 540px;
+    }
+    .container, .container-fluid {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+        display: block;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    .cursor-pointer {
+        cursor: pointer!important;
+    }
+    .pb-3, .py-3 {
+        padding-bottom: 1rem!important;
+    }
+    .pt-3, .py-3 {
+        padding-top: 1rem!important;
+    }
+    .mb-5, .my-5 {
+        margin-bottom: 3rem!important;
+    }
+    .position-relative {
+        position: relative!important;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    user agent stylesheet
+    div {
+        display: block;
+    }
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    section[_ngcontent-pelak-app-c101] .main-box__services[_ngcontent-pelak-app-c101] {
+        font-size: .75rem;
+        color: var(--theme-pelak);
+    }
+    
+    .font-weight-bold {
+        font-weight: 700!important;
+    }
+    .mb-1, .my-1 {
+        margin-bottom: 0.25rem!important;
+    }
+    .justify-content-end {
+        justify-content: flex-end!important;
+    }
+    .flex-wrap {
+        flex-wrap: wrap!important;
+    }
+    .d-flex {
+        display: flex!important;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    section[_ngcontent-pelak-app-c101] .main-box__services[_ngcontent-pelak-app-c101] i[_ngcontent-pelak-app-c101], section[_ngcontent-pelak-app-c101] .main-box__services[_ngcontent-pelak-app-c101] span[_ngcontent-pelak-app-c101] {
+        line-height: 1.5!important;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    user agent stylesheet
+    i {
+        font-style: italic;
+    }
+    section[_ngcontent-pelak-app-c101] .main-box__services[_ngcontent-pelak-app-c101] {
+        font-size: .75rem;
+        color: var(--theme-pelak);
+    }
+    .font-weight-bold {
+        font-weight: 700!important;
+    }
+    .cursor-pointer {
+        cursor: pointer!important;
+    }
+    a, a:hover {
+        text-decoration: none;
+        color: inherit;
+    }
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    .justify-content-between {
+        justify-content: space-between!important;
+    }
+    
+    .d-flex {
+        display: flex!important;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    user agent stylesheet
+    div {
+        display: block;
+    }
+    .cursor-pointer {
+        cursor: pointer!important;
+    }
+    a, a:hover {
+        text-decoration: none;
+        color: inherit;
+    }
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    section[_ngcontent-pelak-app-c101] .main-box__inner-box[_ngcontent-pelak-app-c101] .inner-box__single-pic[_ngcontent-pelak-app-c101] {
+        background-image: url(categoryBack.c5fccfb….png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        border-radius: 10px;
+    }
+    .category-desktop__item--active[_ngcontent-pelak-app-c101] {
+        opacity: 1;
+    }
+    a:not([href]), a:not([href]):hover {
+        color: inherit;
+        text-decoration: none;
+    }
+    .align-items-center {
+        align-items: center!important;
+    }
+    .justify-content-center {
+        justify-content: center!important;
+    }
+    .d-flex {
+        display: flex!important;
+    }
+    a, a:hover {
+        text-decoration: none;
+        color: inherit;
+    }
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    a {
+        background-color: transparent;
+    }
+    a {
+        color: #007bff;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    .cursor-pointer {
+        cursor: pointer!important;
+    }
+    section[_ngcontent-pelak-app-c101] .main-box__inner-box[_ngcontent-pelak-app-c101] .inner-box__single-pic[_ngcontent-pelak-app-c101] .inner-box__single-pic--outtertext[_ngcontent-pelak-app-c101] {
+        font-size: .8rem;
+        top: 12px;
+        right: 0;
+    }
+    .position-absolute {
+        position: absolute!important;
+    }
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    .h2, h2 {
+        font-size: 2rem;
+    }
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+        margin-bottom: 0.5rem;
+        font-weight: 500;
+        line-height: 1.2;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 0;
+        margin-bottom: 0.5rem;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    section[_ngcontent-pelak-app-c101] .main-box__inner-box[_ngcontent-pelak-app-c101] .inner-box__single-pic[_ngcontent-pelak-app-c101] img[_ngcontent-pelak-app-c101] {
+        border-radius: 50%;
+    }
+    
+    .p-1 {
+        padding: 0.25rem!important;
+    }
+    .mb-3, .my-3 {
+        margin-bottom: 1rem!important;
+    }
+    .position-absolute {
+        position: absolute!important;
+    }
+    img {
+        border-style: none;
+    }
+    img, svg {
+        vertical-align: middle;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    img Attributes Style {
+        width: 50px;
+        aspect-ratio: auto 50 / 50;
+        height: 50px;
+    }
+    a:not([href]), a:not([href]):hover {
+        color: inherit;
+        text-decoration: none;
+    }
+    a, a:hover {
+        text-decoration: none;
+        color: inherit;
+    }
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    a {
+        color: #007bff;
+    }
+    .cursor-pointer {
+        cursor: pointer!important;
+    }
+    section[_ngcontent-pelak-app-c101] .main-box__inner-box[_ngcontent-pelak-app-c101] .inner-box__single-pic[_ngcontent-pelak-app-c101] .inner-box__single-pic--innertext[_ngcontent-pelak-app-c101] {
+        color: #fff;
+        bottom: 40px;
+    }
+    
+    .position-absolute {
+        position: absolute!important;
+    }
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    .service-category-container__badge[_ngcontent-pelak-app-c101] {
+        position: absolute;
+        background-color: var(--theme-pelak);
+        text-align: center;
+        line-height: 30px;
+        height: 30px;
+        top: -15px;
+        color: var(--text-white);
+        border-radius: 10px 0 0 10px;
+        top: -5px;
+        right: 0;
+    }
+    
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    .cursor-pointer {
+        cursor: pointer!important;
+    }
+    .category-desktop__item--active[_ngcontent-pelak-app-c101] {
+        opacity: 1;
+    }
+    
+    .image-box-style[_ngcontent-pelak-app-c101] {
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 155px;
+        background-position: 50%;
+    }
+    a:not([href]), a:not([href]):hover {
+        color: inherit;
+        text-decoration: none;
+    }
+    .position-relative {
+        position: relative!important;
+    }
+    a, a:hover {
+        text-decoration: none;
+        color: inherit;
+    }
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    a {
+        background-color: transparent;
+    }
+    a {
+        color: #007bff;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    .cursor-pointer {
+        cursor: pointer!important;
+    }
+    .category-desktop__item--active[_ngcontent-pelak-app-c101] {
+        opacity: 1;
+    }
+    .image-box-style[_ngcontent-pelak-app-c101] {
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 155px;
+        background-position: 50%;
+    }
+    
+    a:not([href]), a:not([href]):hover {
+        color: inherit;
+        text-decoration: none;
+    }
+    .position-relative {
+        position: relative!important;
+    }
+    a, a:hover {
+        text-decoration: none;
+        color: inherit;
+    }
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    a {
+        background-color: transparent;
+    }
+    a {
+        color: #007bff;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    .cursor-pointer {
+        cursor: pointer!important;
+    }
+    section[_ngcontent-pelak-app-c101] .service-category-container__badge[_ngcontent-pelak-app-c101] {
+        display: none;
+        padding: 0 20px;
+    }
+    .service-category-container__badge[_ngcontent-pelak-app-c101] {
+        position: absolute;
+        background-color: var(--theme-pelak);
+        text-align: center;
+        line-height: 30px;
+        height: 30px;
+        top: -15px;
+        color: var(--text-white);
+        border-radius: 10px 0 0 10px;
+        top: -5px;
+        right: 0;
+    }
+    .mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+        font-family: IRANSans!important;
+        direction: rtl;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    .cursor-pointer {
+        cursor: pointer!important;
+    }
+    
+.category-desktop__item--active[_ngcontent-pelak-app-c101] {
+    opacity: 1;
+}
+.image-box-style[_ngcontent-pelak-app-c101] {
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 155px;
+    background-position: 50%;
+}
+
+a:not([href]), a:not([href]):hover {
+    color: inherit;
+    text-decoration: none;
+}
+.position-relative {
+    position: relative!important;
+}
+a, a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+a {
+    background-color: transparent;
+}
+a {
+    color: #007bff;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.cursor-pointer {
+    cursor: pointer!important;
+}
+section[_ngcontent-pelak-app-c101] .service-category-container__badge[_ngcontent-pelak-app-c101] {
+    display: none;
+    padding: 0 20px;
+}
+
+.service-category-container__badge[_ngcontent-pelak-app-c101] {
+    position: absolute;
+    background-color: var(--theme-pelak);
+    text-align: center;
+    line-height: 30px;
+    height: 30px;
+    top: -15px;
+    color: var(--text-white);
+    border-radius: 10px 0 0 10px;
+    top: -5px;
+    right: 0;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.cursor-pointer {
+    cursor: pointer!important;
+}
+.category-desktop__item--active[_ngcontent-pelak-app-c101] {
+    opacity: 1;
+}
+.image-box-style[_ngcontent-pelak-app-c101] {
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 155px;
+    background-position: 50%;
+}
+a:not([href]), a:not([href]):hover {
+    color: inherit;
+    text-decoration: none;
+}
+.position-relative {
+    position: relative!important;
+}
+a, a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+a {
+    background-color: transparent;
+}
+a {
+    color: #007bff;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.cursor-pointer {
+    cursor: pointer!important;
+}
+.image-box-style[_ngcontent-pelak-app-c101] h3[_ngcontent-pelak-app-c101] {
+    position: absolute;
+    bottom: -25px;
+    right: 4px;
+    font-size: .75rem;
+}
+
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+.h3, h3 {
+    font-size: 1.75rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c101] .main-box__inner-box[_ngcontent-pelak-app-c101] .inner-box__multi-pic[_ngcontent-pelak-app-c101] img[_ngcontent-pelak-app-c101] {
+    width: 100%;
+    height: 155px;
+    border-radius: 10px;
+}
+
+img {
+    border-style: none;
+}
+img, svg {
+    vertical-align: middle;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c101] .main-box__inner-box[_ngcontent-pelak-app-c101] .inner-box__multi-pic[_ngcontent-pelak-app-c101] img[_ngcontent-pelak-app-c101] {
+    width: 100%;
+    height: 155px;
+    border-radius: 10px;
+}
+
+img {
+    border-style: none;
+}
+img, svg {
+    vertical-align: middle;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+img Attributes Style{
+    width: 283px;
+    aspect-ratio: auto 283 / 155;
+    height: 155px;
+}
+a:not([href]), a:not([href]):hover {
+    color: inherit;
+    text-decoration: none;
+}
+#requst:hover{
+    opacity: 70%;
+}
+.app__desc[_ngcontent-pelak-app-c103] {
+    min-height: var(--app-home-h);
+    padding: 60px 0;
+    background-color: var(--bg-white-dark);
+}
+.container, .container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1200px;
+}
+.align-items-center {
+    align-items: center!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.container {
+    max-width: 1140px;
+}
+.container {
+    max-width: 960px;
+}
+.container {
+    max-width: 720px;
+}
+.container {
+    max-width: 540px;
+}
+.container, .container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.p-0 {
+    padding: 0!important;
+}
+
+.col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.col-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-auto, .col-lg, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-auto, .col-md, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-auto, .col-sm, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-auto {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+section[_ngcontent-pelak-app-c104] {
+    padding: 45px 0;
+}
+
+.container {
+    max-width: 1200px;
+}
+.container {
+    max-width: 1140px;
+}
+.container {
+    max-width: 960px;
+}
+.container {
+    max-width: 720px;
+}
+.container {
+    max-width: 540px;
+}
+.container, .container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c104] h3[_ngcontent-pelak-app-c104] {
+    font-size: 12pt;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.full-with {
+    width: 100%!important;
+}
+.text-center {
+    text-align: center!important;
+}
+.mt-sm-0, .my-sm-0 {
+    margin-top: 0!important;
+}
+.mt-3, .my-3 {
+    margin-top: 1rem!important;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+.h3, h3 {
+    font-size: 1.75rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+.d-flex {
+    display: flex!important;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.my-lg-5 {
+    margin-bottom: 3rem!important;
+}
+.mt-lg-5, .my-lg-5 {
+    margin-top: 3rem!important;
+}
+.p-0 {
+    padding: 0!important;
+}
+.mb-2, .my-2 {
+    margin-bottom: 0.5rem!important;
+}
+.mt-2, .my-2 {
+    margin-top: 0.5rem!important;
+}
+.align-content-start {
+    align-content: flex-start!important;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.col-lg-4 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+.col-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-auto, .col-lg, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-auto, .col-md, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-auto, .col-sm, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-auto {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.mb-0, .my-0 {
+    margin-bottom: 0!important;
+}
+
+.align-content-center {
+    align-content: center!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+.d-flex {
+    display: flex!important;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.mb-2, .my-2 {
+    margin-bottom: 0.5rem!important;
+}
+
+.col-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-auto, .col-lg, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-auto, .col-md, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-auto, .col-sm, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-auto {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+img {
+    border-style: none;
+}
+img, svg {
+    vertical-align: middle;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c104] h3[_ngcontent-pelak-app-c104] {
+    font-size: 12pt;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+section[_ngcontent-pelak-app-c104] p[_ngcontent-pelak-app-c104] {
+    font-size: 10pt;
+    font-weight: 400;
+}
+section[_ngcontent-pelak-app-c104] h2[_ngcontent-pelak-app-c104], section[_ngcontent-pelak-app-c104] h6[_ngcontent-pelak-app-c104], section[_ngcontent-pelak-app-c104] p[_ngcontent-pelak-app-c104] {
+    color: var(--text-black);
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+* {
+    scroll-behavior: smooth;
+}
+section[_ngcontent-pelak-app-c104] footer[_ngcontent-pelak-app-c104] span[_ngcontent-pelak-app-c104] {
+    color: var(--theme-pelak);
+    cursor: pointer;
+    border-bottom: 2px solid;
+}
+
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c105] {
+    padding: 45px 15px;
+}
+.container {
+    max-width: 1200px;
+}
+.align-items-center {
+    align-items: center!important;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.container {
+    max-width: 1140px;
+}
+.container {
+    max-width: 960px;
+}
+.container {
+    max-width: 720px;
+}
+.container {
+    max-width: 540px;
+}
+.container, .container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c105] h2[_ngcontent-pelak-app-c105] {
+    font-size: 14pt;
+    font-weight: 500;
+    margin: 30px 0;
+}
+
+.text-center {
+    text-align: center!important;
+}
+.w-100 {
+    width: 100%!important;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+.h2, h2 {
+    font-size: 2rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c105] h4[_ngcontent-pelak-app-c105] {
+    font-size: 10pt;
+    font-weight: 400;
+    color: var(--text-gray);
+}
+
+.text-center {
+    text-align: center!important;
+}
+.col-lg-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.col-8 {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+.col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-auto, .col-lg, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-auto, .col-md, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-auto, .col-sm, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-auto {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+.h4, h4 {
+    font-size: 1.5rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105], section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105]:hover {
+    color: var(--text-white);
+    transition: .3s;
+    border: 1px solid var(--transparent);
+}
+section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105] {
+    margin: 30px 0;
+    font-size: 12pt;
+    font-weight: 300;
+    background-color: var(--theme-pelak);
+    position: relative;
+    padding: 10px 30px;
+    border-radius: 3px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button, .mat-flat-button {
+    box-sizing: border-box;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    vertical-align: baseline;
+    text-align: center;
+    margin: 0;
+    min-width: 64px;
+    line-height: 36px;
+    padding: 0 16px;
+    border-radius: 4px;
+    overflow: visible;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button {
+    color: inherit;
+    background: transparent;
+}
+.mat-focus-indicator, .mat-mdc-focus-indicator {
+    position: relative;
+}
+.mat-button, .mat-fab, .mat-flat-button, .mat-icon-button, .mat-mini-fab, .mat-raised-button, .mat-stroked-button {
+    font-family: Roboto,Helvetica Neue,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+button {
+    cursor: pointer;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+[type=button], [type=reset], [type=submit], button {
+    -webkit-appearance: button;
+}
+button, select {
+    text-transform: none;
+}
+button, input {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+button, input, optgroup, select, textarea {
+    font-size: inherit;
+    line-height: inherit;
+}
+button {
+    border-radius: 0;
+}
+* {
+    scroll-behavior: smooth;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105], section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105]:hover {
+    color: var(--text-white);
+    transition: .3s;
+    border: 1px solid var(--transparent);
+}
+section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105] {
+    margin: 30px 0;
+    font-size: 12pt;
+    font-weight: 300;
+    background-color: var(--theme-pelak);
+    position: relative;
+    padding: 10px 30px;
+    border-radius: 3px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button, .mat-flat-button {
+    box-sizing: border-box;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    vertical-align: baseline;
+    text-align: center;
+    margin: 0;
+    min-width: 64px;
+    line-height: 36px;
+    padding: 0 16px;
+    border-radius: 4px;
+    overflow: visible;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button {
+    color: inherit;
+    background: transparent;
+}
+.mat-button, .mat-fab, .mat-flat-button, .mat-icon-button, .mat-mini-fab, .mat-raised-button, .mat-stroked-button {
+    font-family: Roboto,Helvetica Neue,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+button {
+    cursor: pointer;
+}
+button, select {
+    text-transform: none;
+}
+.mat-button-ripple.mat-ripple, .mat-button-focus-overlay {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    pointer-events: none;
+    border-radius: inherit;
+}
+
+.mat-ripple {
+    overflow: hidden;
+    position: relative;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105], section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105]:hover {
+    color: var(--text-white);
+    transition: .3s;
+    border: 1px solid var(--transparent);
+}
+section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105] {
+    margin: 30px 0;
+    font-size: 12pt;
+    font-weight: 300;
+    background-color: var(--theme-pelak);
+    position: relative;
+    padding: 10px 30px;
+    border-radius: 3px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button, .mat-flat-button {
+    box-sizing: border-box;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    vertical-align: baseline;
+    text-align: center;
+    margin: 0;
+    min-width: 64px;
+    line-height: 36px;
+    padding: 0 16px;
+    border-radius: 4px;
+    overflow: visible;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button {
+    color: inherit;
+    background: transparent;
+}
+.mat-button, .mat-fab, .mat-flat-button, .mat-icon-button, .mat-mini-fab, .mat-raised-button, .mat-stroked-button {
+    font-family: Roboto,Helvetica Neue,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+button {
+    cursor: pointer;
+}
+button, select {
+    text-transform: none;
+}
+.mat-button .mat-button-focus-overlay, .mat-icon-button .mat-button-focus-overlay {
+    opacity: 0;
+}
+.mat-button-focus-overlay {
+    opacity: 0;
+    transition: opacity 200ms cubic-bezier(0.35, 0, 0.25, 1),background-color 200ms cubic-bezier(0.35, 0, 0.25, 1);
+}
+.mat-button-ripple.mat-ripple, .mat-button-focus-overlay {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    pointer-events: none;
+    border-radius: inherit;
+}
+.mat-button-focus-overlay {
+    background: #000;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105], section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105]:hover {
+    color: var(--text-white);
+    transition: .3s;
+    border: 1px solid var(--transparent);
+}
+section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105] {
+    margin: 30px 0;
+    font-size: 12pt;
+    font-weight: 300;
+    background-color: var(--theme-pelak);
+    position: relative;
+    padding: 10px 30px;
+    border-radius: 3px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button, .mat-flat-button {
+    box-sizing: border-box;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    vertical-align: baseline;
+    text-align: center;
+    margin: 0;
+    min-width: 64px;
+    line-height: 36px;
+    padding: 0 16px;
+    border-radius: 4px;
+    overflow: visible;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button {
+    color: inherit;
+    background: transparent;
+}
+.mat-button, .mat-fab, .mat-flat-button, .mat-icon-button, .mat-mini-fab, .mat-raised-button, .mat-stroked-button {
+    font-family: Roboto,Helvetica Neue,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+button {
+    cursor: pointer;
+}
+button, select {
+    text-transform: none;
+}
+.mat-button .mat-button-focus-overlay, .mat-icon-button .mat-button-focus-overlay {
+    opacity: 0;
+}
+.mat-button-focus-overlay {
+    opacity: 0;
+    transition: opacity 200ms cubic-bezier(0.35, 0, 0.25, 1),background-color 200ms cubic-bezier(0.35, 0, 0.25, 1);
+}
+.mat-button-ripple.mat-ripple, .mat-button-focus-overlay {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    pointer-events: none;
+    border-radius: inherit;
+}
+.mat-button-focus-overlay {
+    background: #000;
+}
+.mat-card, a, button, h1, h2, h3, h4, h5, h6, input, label, li, mat-radio-button, option, p, select, span, strong {
+    font-family: IRANSans!important;
+    direction: rtl;
+}
+* {
+    scroll-behavior: smooth;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105], section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105]:hover {
+    color: var(--text-white);
+    transition: .3s;
+    border: 1px solid var(--transparent);
+}
+section[_ngcontent-pelak-app-c105] button[_ngcontent-pelak-app-c105] {
+    margin: 30px 0;
+    font-size: 12pt;
+    font-weight: 300;
+    background-color: var(--theme-pelak);
+    position: relative;
+    padding: 10px 30px;
+    border-radius: 3px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button, .mat-flat-button {
+    box-sizing: border-box;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    vertical-align: baseline;
+    text-align: center;
+    margin: 0;
+    min-width: 64px;
+    line-height: 36px;
+    padding: 0 16px;
+    border-radius: 4px;
+    overflow: visible;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button {
+    color: inherit;
+    background: transparent;
+}
+.mat-button, .mat-fab, .mat-flat-button, .mat-icon-button, .mat-mini-fab, .mat-raised-button, .mat-stroked-button {
+    font-family: Roboto,Helvetica Neue,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+button {
+    cursor: pointer;
+}
+button, select {
+    text-transform: none;
+}
+button, input, optgroup, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+button, input, optgroup, select, textarea {
+    font-size: inherit;
+    line-height: inherit;
+}
+user agent stylesheet
+button {
+    writing-mode: horizontal-tb !important;
+
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: center;
+    cursor: default;
+}
+body {
+    direction: rtl!important;
+    font-weight: 300;
+    box-sizing: border-box;
+    font-family: IRANSans!important;
+    background-color: var(--bg-white);
+    text-align: right!important;
+}
+body {
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+:root {
+    --text-black: #252626;
+    --text-white: #fff;
+    --text-gray: #717373;
+    --text-gray-light: #898b8c;
+    --text-color: #242a30;
+    --text-gray-lighter: #555;
+    --bg-white: #fff;
+    --bg-white-dark: #f2f8fc;
+    --bg-white-opacity: hsla(0,0%,100%,0.15);
+    --bg-black: #000;
+    --bg-black-opacity: rgba(0,0,0,0.25);
+    --bg-gray: #ccc;
+    --bg-gray-light: #eeeff0;
+    --border-gray: #d9d9d9;
+    --border-light-gray: #e6e6e6;
+    --error: #c50823;
+    --transparent: transparent;
+    --current-lang: #2f2f2f;
+    --bg-current-lang: #ececec;
+    --theme-yar: #076cf7;
+    --header-active-color: #05ffa3;
+    --bg-order-tab-header: #004cad;
+    --tab-order-active: #05ffa3;
+    --bg-btn-accept: linear-gradient(90deg,#02aab0 0%,#00cdac 51%,#02aab0);
+    --customize-input-color: #377d6a;
+    --bg-mat-radio-button: #076bf3;
+    --bg-header-done: #076bf3;
+    --bg-header-current: #30c505;
+    --bg-header-accept: #f39c12;
+    --bg-header-new: #2e8fbb;
+    --bg-messages-header: #00c5cd;
+    --material-icons-color: #c4c7ce;
+    --bg-done-header: grey;
+    --footer-item-color: #3d3d3d;
+    --bg-footer: #dfe7ed;
+    --bg-btn-disabled: #c5c9cc;
+    --placeholder-color: #ddd;
+    --shadow-color: #eee;
+    --border-color: rgba(0,0,0,0.1);
+    --mat-slide: #d7dbde;
+    --select-discount: #edeff0;
+    --edit-order-button: #eff1f2;
+    --theme-pelak: #39acfd;
+    --order-step-btn: #2196f3;
+    --theme-pelak-dark: #0394fc;
+    --success-payment-page: #f9fafb;
+    --success-order-back-color: #d4edda;
+    --success-order-text-color: #155724;
+    --order-title-color: #545e69;
+    --order-subtitle-color: #687482;
+}
+
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+html {
+    font-family: sans-serif;
+    -webkit-tap-highlight-color: transparent;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
